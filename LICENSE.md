@@ -1,4 +1,4 @@
-# 
+# Nativo Letta (MemGPT) extensiones. Con procesamiento de baja latencia y inferencia en tiempo real — optimizado para el máximo rendimiento y eficiencia.
 
 
 
